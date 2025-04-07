@@ -5,6 +5,6 @@ NeuroStartUp — динамически развивающийся старта�
 Высокая точность поиска
 Высокая скорость поиска
 Низкая цена
-![logo]C:\Users\user\Desktop\Homework Self\NeuroStartUp\logo.png
+![logo] (C:\Users\user\Desktop\Homework Self\NeuroStartUp\logo.png)
 
 
